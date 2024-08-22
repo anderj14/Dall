@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "8t+SlKjYph0NjQLjJxXDv3tj/1Reb3RI002xcRj9ONPpuzt+1dM2ZGuiUGesvvnRHbwCJtcaAQmHculRc6XmDQ==",
+  "success": true,
+  "projectFilePath": "/Users/andersonfrias/Documents/workspace/net/dall/Dall/Dall.csproj",
+  "expectedPackageFiles": [
+    "/Users/andersonfrias/.nuget/packages/microsoft.aspnetcore.openapi/7.0.13/microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/openai/2.0.0-beta.8/openai.2.0.0-beta.8.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/refit/7.1.2/refit.7.1.2.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/system.clientmodel/1.1.0-beta.5/system.clientmodel.1.1.0-beta.5.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/system.net.http.json/8.0.0/system.net.http.json.8.0.0.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/andersonfrias/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
